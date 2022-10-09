@@ -1,0 +1,12 @@
+p {
+  font-family: Lato;
+}
+
+#root {
+  padding: 50px;
+}
+
+.register-form {
+  max-width: 350px;
+  margin: auto;
+}
